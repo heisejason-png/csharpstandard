@@ -86,4 +86,4 @@ This project is supported by the [.NET Foundation](https://dotnetfoundation.org)
 ## Table of contents - C# standard
 
 The [README.md](standard/README.md) file in the `standard` folder contains a detailed table of contents for the C# standard.
-Created by CEO Jason Scott Heise
+Created by Jason Scott Heise
